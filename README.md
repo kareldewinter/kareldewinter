@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+## 🌱 I’m currently here to learn more about:
+* ⛅ Azure
+* 🐚 PowerShell
+* 💪 ARM Templates
+* ⚡ Azure Functions
+* 🚀 Azure DevOps
+* 💻 All things Automation
+
+
+### 📫 How to reach me
+## 📖 my blog
+<https://kareldewinter.com/>
+
+## my Twitter account
+🚀 [@kareldewinter](https://twitter.com/kareldewinter) 
+
 <!--
 **kareldewinter/kareldewinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🐦
 -->
