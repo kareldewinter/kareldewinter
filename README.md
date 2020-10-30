@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## 🌱 I’m currently here to learn more about:
+### 🌱 I’m currently here to learn more about:
 * ⛅ Azure
 * 🐚 PowerShell
 * 💪 ARM Templates
@@ -9,11 +9,11 @@
 * 💻 All things Automation
 
 
-### 📫 How to reach me
-## 📖 my blog
-<https://kareldewinter.com/>
+## 📫 How to reach me
+### my blog
+📖 <https://kareldewinter.com/>
 
-## my Twitter account
+### my Twitter account
 🚀 [@kareldewinter](https://twitter.com/kareldewinter) 
 
 <!--
