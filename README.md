@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 🌱 I’m currently here to learn more about:
-* ⛅ Azure
-* 🐚 PowerShell
+* ☁️ Azure
+* 📟 PowerShell
 * 💪 ARM Templates
 * ⚡ Azure Functions
 * 🚀 Azure DevOps
